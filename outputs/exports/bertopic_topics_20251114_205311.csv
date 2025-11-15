@@ -1,0 +1,3 @@
+Topic_ID,Topic_Name,Document_Count,Frequency,Top_5_Words,Top_10_Words
+0,advert_lewis,661,661,"advert, lewis, john, john lewis, christmas","advert, lewis, john, john lewis, christmas, ad, love, dad, year, son"
+1,guardian_bbc,14,14,"guardian, bbc, england, bring, watch","guardian, bbc, england, bring, watch, doubt, britain, government, positive comment, trust"

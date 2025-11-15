@@ -1,0 +1,84 @@
+{
+  "analysis_timestamp": "20251114_211900",
+  "total_comments_analyzed": 876,
+  "pipeline_steps_completed": [
+    "scraping",
+    "preprocessing",
+    "traditional_topics",
+    "bertopic",
+    "sentiment_analysis",
+    "emotion_analysis",
+    "demographic_analysis",
+    "visualization"
+  ],
+  "step_status": {
+    "scraping": {
+      "status": "completed",
+      "timestamp": "2025-11-14T21:12:15.761024",
+      "error": null
+    },
+    "preprocessing": {
+      "status": "completed",
+      "timestamp": "2025-11-14T21:12:17.737224",
+      "error": null
+    },
+    "traditional_topics": {
+      "status": "completed",
+      "timestamp": "2025-11-14T21:17:50.935589",
+      "error": null
+    },
+    "bertopic": {
+      "status": "completed",
+      "timestamp": "2025-11-14T21:18:03.275862",
+      "error": null
+    },
+    "sentiment_analysis": {
+      "status": "completed",
+      "timestamp": "2025-11-14T21:18:32.647656",
+      "error": null
+    },
+    "emotion_analysis": {
+      "status": "completed",
+      "timestamp": "2025-11-14T21:18:46.958017",
+      "error": null
+    },
+    "demographic_analysis": {
+      "status": "completed",
+      "timestamp": "2025-11-14T21:18:46.968576",
+      "error": null
+    },
+    "visualization": {
+      "status": "completed",
+      "timestamp": "2025-11-14T21:19:00.623473",
+      "error": null
+    }
+  },
+  "traditional_topics_found": 5,
+  "bertopic_topics_found": 2,
+  "sentiment_distribution": [
+    {
+      "Metric": "Overall Sentiment Distribution",
+      "Positive": "63.0%",
+      "Neutral": "22.9%",
+      "Negative": "14.2%"
+    },
+    {
+      "Metric": "Average Polarity",
+      "Positive": "0.237",
+      "Neutral": "N/A",
+      "Negative": "N/A"
+    },
+    {
+      "Metric": "Average Subjectivity",
+      "Positive": "0.471",
+      "Neutral": "N/A",
+      "Negative": "N/A"
+    },
+    {
+      "Metric": "Average Transformer Confidence",
+      "Positive": "0.837",
+      "Neutral": "N/A",
+      "Negative": "N/A"
+    }
+  ]
+}

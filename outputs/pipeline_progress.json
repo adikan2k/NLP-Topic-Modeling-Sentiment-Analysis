@@ -1,0 +1,51 @@
+{
+  "step_status": {
+    "scraping": {
+      "status": "completed",
+      "timestamp": "2025-11-14T21:40:42.334477",
+      "error": null
+    },
+    "preprocessing": {
+      "status": "completed",
+      "timestamp": "2025-11-14T21:40:42.336139",
+      "error": null
+    },
+    "traditional_topics": {
+      "status": "completed",
+      "timestamp": "2025-11-14T21:40:42.338767",
+      "error": null
+    },
+    "bertopic": {
+      "status": "completed",
+      "timestamp": "2025-11-14T21:40:42.438723",
+      "error": null
+    },
+    "sentiment_analysis": {
+      "status": "completed",
+      "timestamp": "2025-11-14T21:40:42.760472",
+      "error": null
+    },
+    "emotion_analysis": {
+      "status": "completed",
+      "timestamp": "2025-11-14T21:40:42.762050",
+      "error": null
+    },
+    "demographic_analysis": {
+      "status": "completed",
+      "timestamp": "2025-11-14T21:40:42.762050",
+      "error": null
+    },
+    "visualization": {
+      "status": "completed",
+      "timestamp": "2025-11-14T21:40:42.764303",
+      "error": null
+    },
+    "export": {
+      "status": "completed",
+      "timestamp": "2025-11-14T21:40:42.764303",
+      "error": null
+    }
+  },
+  "errors": {},
+  "last_updated": "2025-11-14T21:40:42.764303"
+}
